@@ -1,0 +1,10 @@
+---- Log Analyzer Report ----
+Total lines in app.log:
+3 ../logs/app.log
+----------------------
+Errors in app.log:
+ERROR Failed to connect DB
+----------------------
+Warnings in system.log:
+WARNING CPU high usage
+----------------------
